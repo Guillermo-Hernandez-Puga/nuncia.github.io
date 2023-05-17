@@ -147,7 +147,7 @@ body{
     overflow:hidden;
     margin: auto;
     transition: all .4s ease-in-out;
-    box-shadow: 0px 1px 5px 0px rgba(0, 0, 0,0.3);
+    box-shadow: 0px 1px 5px 0px rgba(174, 47, 47, 0.3);
     text-align: center;
     background: linear-gradient(-135deg, #fcfafb, #f3f4f7);
 }
